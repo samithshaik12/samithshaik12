@@ -1,3 +1,16 @@
+# Kaaty – Front End Developer
+
+Kaaty is a passionate Front End Developer specializing in React, JavaScript, and modern UI development.
+
+## Skills
+- React
+- JavaScript
+- HTML & CSS
+- Responsive Design
+
+## Latest Article
+Read here:
+[Who is Kaaty – Front End Developer?](PASTE_YOUR_DEVTO_LINK_HERE)
 ## Hi there 👋
 
 <!--
